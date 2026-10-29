@@ -1,3 +1,4 @@
+
 """Mini sales BI assistant: stdlib WSGI, SQLite, and allow-listed analytics."""
 from __future__ import annotations
 
